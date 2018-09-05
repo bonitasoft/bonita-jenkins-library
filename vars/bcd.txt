@@ -1,0 +1,7 @@
+The <code>bcd</code> step offers convenient access to Bonita Continuous Delivery CLI from a Pipeline script. This step takes the following parameters:
+<p></p>
+<dl>
+<dt><code>args</code></dt><dd>String arguments to the <code>bcd</code> command.</dd>
+<dt><code>ignore_errors</code></dt><dd>Boolean flag to not fail the <code>bcd</code> command call uppon errors (default to false).</dd>
+</dl>
+
